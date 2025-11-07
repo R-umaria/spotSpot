@@ -1,4 +1,4 @@
-## spotSpot
+## AI Dermatology Assistan: spotSpot
 This project was built at CtrlHackDel 2024 @ York University. Developed by Nathan Lu, Toni Zeng, Sam Jian and Rishi Umaria.
 
 ## Inspiration
